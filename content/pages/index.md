@@ -48,7 +48,6 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/ts.svg
           altText: Third item image
         actions:
           - type: Button
