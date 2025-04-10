@@ -2,10 +2,6 @@
 title: Home
 type: Page
 sections:
-  - type: CardsSection
-    title: Cards Section Title
-    subtitle: The section subtitle
-    items: []
   - type: HeroSection
     title: Rahma SAIDOUNE
     subtitle: IT Engineer specialized in Networks & Systems
