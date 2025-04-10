@@ -25,6 +25,7 @@ sections:
     image:
       type: Image
       altText: Hero section image
+      url: /images/logo.jpg
   - type: CardsSection
     title: Cards Section Component
     subtitle: Section subtitle here
